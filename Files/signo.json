@@ -1,0 +1,86 @@
+[
+   {
+       “nome”: “Áries”,
+       "image": "aries",
+       “data”: "21/03 a 20/04”,
+       “previsao”: "Áries recebe Júpiter até maio de 2023, o que indica que esse pode ser um grande ano. Isso porque esse planeta simboliza expansão e crescimento. Por isso, novas oportunidades tendem a chegar. Porém, o ano de quem é de Áries também pode ter insatisfação constante e imprudência."
+ },
+
+  {
+       “nome”: "Touro",
+       "image": "touro",
+       “data”: "21/04 a 20/05”,
+       “previsao”: "Prepare-se, Touro! Porque todo o seu esforço dos últimos dois anos pode ser recompensado 2023, porque seu signo recebe Júpiter a partir de maio. Mas você pode ter de lidar com mais responsabilidades envolvendo seu propósito de vida e carreira por conta da atuação de Saturno na sua vida."
+ },
+
+  {
+       “nome”: "Gemeos",
+       "image": "gemeos",
+       “data”: "21/05 a 20/06”,
+       “previsao”: "Para Gêmeos, 2023 será um ótimo ano para se desenvolver, se aperfeiçoar e se especializar. Você pode se destacar como uma figura pública ou como uma liderança no seu grupo. No entanto, Plutão pode ser um significado de desafios sobre movimentos que envolvam outros países ou outras culturas."
+ },
+
+  {
+       “nome”: "Cancer”,
+       "image": "cancer",
+       “data”: "21/06 a 21/07”,
+       “previsao”: "O foco será nos relacionamentos para Câncer em 2023. Por isso, pode ser que você tenha de resolver pendências na família, com seu par e amigos. Além disso, os eclipses podem ser momentos de mudanças na vida profissional e na vida doméstica. Bom ano para rever hábitos e relacionamentos tóxicos."
+ },
+
+  {
+       “nome”: "Leão”,
+       "image": "leao",
+       “data”: "22/07 a 22/08”,
+       “previsao”: "É bem possível que seja um ano de independência financeira para Leão em 2023! Além disso, movimentos na carreira poderão ser transformadores na sua vida neste ano. Mas a falta de paciência pode aumentar no novo ano e você vai precisar cuidar com possíveis indisposições com figuras de autoridade."
+ },
+
+  {
+       “nome”: "Virgem”,
+       "image": "virgem",
+       “data”: "23/08 a 22/09”,
+       “previsao”: "As previsões para Virgem em 2023 indicam este será o ano para aprender a dizer não. Por isso, vai ser importante você refletir se sente dificuldades em impor limites nas suas relações. Além disso, é possível que você tenha mais seletividade na hora de lidar com amizades e relacionamentos amorosos."
+ },
+
+  {
+       “nome”: "Libra”,
+       "image": "libra",
+       “data”: "23/09 a 22/10”,
+       “previsao”: "A questão profissional pode requerer muito da pessoa de Libra em 2023, porque a rotina pode ficar mais pesada. Plutão pode trazer à tona facetas que estavam adormecidas para que Libra passe a se conhecer melhor e se torne uma pessoa mais profunda e consciente de si."
+ },
+
+ {
+       “nome”: "Escorpião",
+       "image": "escorpiao",
+       “data”: "23/10 a 21/11”,
+       “previsao”:  "A temporada de Escorpião em 2023 promete! Este pode ser um ano excelente para criar uma rotina mais saudável e retomar tratamentos de saúde. Além disso, você precisa tomar cuidado com o excesso de “eu mereço”. Por fim, gastos inesperados e súbitos podem surgir. Planeje-se com antecedência."
+ },
+
+ {
+       “nome”: "Sargitário”,
+       "image": "sargita",
+       “data”: "21/11 a 21/12”,
+       “previsao”:  "Saturno pode significar redirecionamento de carreira para Sagitário em 2023, mas também pode significar a realização de sonhos que envolvam seu lar e sua família. Além disso, Plutão sugere necessidade de eliminar hábitos tóxicos relacionados às finanças. Ou seja, tenha responsabilidade com o seu dinheiro. "
+ },
+
+ {
+       “nome”: "Capricórnio”,
+       "image": "caprica",
+       “data”: "22/12 a 21/01”,
+       “previsao”:   "Para Capricórnio em 2023, a palavra de ordem é desapego. Vai ser importante abrir mão do controle para que você viva este ano com plenitude. Esse ano também pode ser ótimo para que você se permita ser referência nos relacionamentos, na vida doméstica e na vida profissional."
+ },
+
+ {
+       “nome”: "Aquário”,
+       "image": "aquario",
+       “data”: "22/01 a 19/02”,
+       “previsao”:  "Aquário vai receber Plutão por três meses em 2023, nesse período você precisa se preparar para encarar suas sombras. Este é um excelente ano para fazer mergulhos internos e profundos em busca de autoconhecimento. Aproveite e use essa energia para transformações. Que tipo de poder você deseja ter? "
+ },
+
+ {
+       “nome”: "Peixes”,
+       "image": "peixes",
+       “data”: "20/02 a 20/03”,
+       “previsao”:  "Peixes recebe Saturno em 2023. É hora de tirar a cabeça das nuvens, colocar os pés no chão e encarar os desafios. É hora de assumir o protagonismo da sua própria história. Além disso, você pode expandir sua espiritualidade de forma mais concreta. Mas atenção porque sua mente pode ser muito exigida. Cuide-se."
+ },
+
+]
